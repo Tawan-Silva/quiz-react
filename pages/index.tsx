@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 import Questionario from '../components/Questionario';
 import QuestaoModel from '../model/questao';
 
-const BASE_URL = 'https://quiz-react-5gvy.vercel.app/api';
+const BASE_URL = 'quiz-react-4hnzlu729-tawan-silva.vercel.app/api';
 
 export default function Home() {
   const router = useRouter();
